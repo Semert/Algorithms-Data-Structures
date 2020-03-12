@@ -54,7 +54,7 @@ llist.append(3)
 llist.display()
 
 
-
+# curNode.next unutma.
 # class Node:
 #     def __init__(self,data=None):
 #         self.data = data

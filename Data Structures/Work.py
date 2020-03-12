@@ -17,47 +17,47 @@ class LinkedList:
 
     def length(self):
         curNode = self.head
-        total = 0
+        count = 0
         while curNode.next!=None:
-            total += 1
             curNode = curNode.next
-        return total
+            count += 1
+        return count
 
     def display(self):
-        elements = []
+        array = []
         curNode = self.head
-        while curNode.next!=None:
+        while curNode.next:
             curNode = curNode.next
-            elements.append(curNode.data)
-        print(elements)
+            array.append(curNode.data)
+        print(array)
 
     def get(self,index):
         if index >= self.length():
-            print("Error Out of Index")
-            return None
-        curIndex = 0
+            print("noo")
+            return
         curNode = self.head
+        curInx = 0
         while True:
             curNode = curNode.next
-            if(curIndex == index):
-                return curNode.data
-            curIndex += 1
-
+            if(curInx == index):
+                return  curNode.data
+            curInx += 1
 
     def erase(self,index):
         if index >= self.length():
-            print("Error Out of Index")
-            return None
-        curIndex = 0
-        curNode = self.head
-        while True:
-            lastNode = curNode
-            curNode = curNode.next
-            if curIndex==index:
-                lastNode.next = curNode.next
-                return
-            curIndex += 1
+            print("go away")
+            return
 
+            curNode = self.head
+            curInx = 0
+
+            while True:
+                pastNode = curNode
+                curNode = curNode.next
+                if curInx == index:
+                    pastNode = curNode.next
+                    return
+                curInx += 1
 
 myList = LinkedList()
 
