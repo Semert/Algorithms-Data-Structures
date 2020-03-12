@@ -5,6 +5,8 @@ def staircase(n):
 
 staircase(6)
 
+
+# The other way to solve, not working in HackerRank.
 # a = n
 # count = 0
 # for i in range(a, 0, -1):
