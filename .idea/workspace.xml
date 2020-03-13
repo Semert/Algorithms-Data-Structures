@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="404e024f-483b-4cbf-a95b-1356fbca11e1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms/Binary Search.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/Binary Search.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Structures Questions/StackQuestion.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structures/StackQuestion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Structures/Linked List.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structures/Linked List.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +30,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PostgreSQL" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -149,7 +148,6 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.Binary Search" />
-        <item itemvalue="Python.StackQuestion (1)" />
         <item itemvalue="Python.StackQuestion" />
         <item itemvalue="Python.Work" />
         <item itemvalue="Python.Easy" />
@@ -170,29 +168,29 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1583504137703">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1584114348972">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1583504137703" />
-    <state width="1899" height="225" key="GridCell.Tab.0.bottom" timestamp="1584033587687">
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1584114348972" />
+    <state width="1899" height="225" key="GridCell.Tab.0.bottom" timestamp="1584047242854">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="225" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1584033587687" />
-    <state width="1899" height="225" key="GridCell.Tab.0.center" timestamp="1584033587687">
+    <state width="1899" height="225" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1584047242854" />
+    <state width="1899" height="225" key="GridCell.Tab.0.center" timestamp="1584047242854">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="225" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1584033587687" />
-    <state width="1899" height="225" key="GridCell.Tab.0.left" timestamp="1584033587687">
+    <state width="1899" height="225" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1584047242854" />
+    <state width="1899" height="225" key="GridCell.Tab.0.left" timestamp="1584047242853">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="225" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1584033587687" />
-    <state width="1899" height="225" key="GridCell.Tab.0.right" timestamp="1584033587687">
+    <state width="1899" height="225" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1584047242853" />
+    <state width="1899" height="225" key="GridCell.Tab.0.right" timestamp="1584047242854">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="225" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1584033587687" />
-    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1584009665961">
+    <state width="1899" height="225" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1584047242854" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1584114328107">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584009665961" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584114328107" />
   </component>
 </project>
