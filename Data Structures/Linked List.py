@@ -130,4 +130,4 @@ llist.display()
 # myList.display()
 
 
-# New Linked list script will be added. 
+# New Linked list script will be added.
