@@ -105,9 +105,10 @@ llist.append("A")
 llist.append("B")
 llist.append("C")
 llist.append("D")
-llist.append("F")
+
 llist.print_list()
-llist.delete_node('F')
+llist.delete_node('D')
+llist.prepend("M")
 llist.print_list()
 
 
