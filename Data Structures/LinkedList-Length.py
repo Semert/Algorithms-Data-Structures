@@ -3,7 +3,6 @@ class Node:
         self.data = data
         self.next = None
 
-
 class LinkedList:
     def __init__(self):
         self.head = None
@@ -106,6 +105,11 @@ llist.append("A")
 llist.append("B")
 llist.append("C")
 llist.append("D")
+llist.append("F")
+llist.print_list()
+llist.delete_node('F')
+llist.print_list()
+
 
 print(llist.len_recursive(llist.head))
 
