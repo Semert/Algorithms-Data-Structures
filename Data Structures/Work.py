@@ -1,3 +1,9 @@
+# Arrays
+# Linked List
+# Stack
+# queue
+# Tree
+# Graph
 
 class Node:
     def __init__(self,data=None):
