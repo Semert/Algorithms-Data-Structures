@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="404e024f-483b-4cbf-a95b-1356fbca11e1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Data Structures/Work3,.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms/Easy.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/Easy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Structures/LinkedList-Length.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structures/LinkedList-Length.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Structures/Stack.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structures/Stack.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -193,29 +189,29 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1584114348972">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1584428201820">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1584114348972" />
-    <state width="1899" height="223" key="GridCell.Tab.0.bottom" timestamp="1584295729701">
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1584428201820" />
+    <state width="1899" height="223" key="GridCell.Tab.0.bottom" timestamp="1584304764443">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="223" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1584295729701" />
-    <state width="1899" height="223" key="GridCell.Tab.0.center" timestamp="1584295729701">
+    <state width="1899" height="223" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1584304764443" />
+    <state width="1899" height="223" key="GridCell.Tab.0.center" timestamp="1584304764443">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="223" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1584295729701" />
-    <state width="1899" height="223" key="GridCell.Tab.0.left" timestamp="1584295729701">
+    <state width="1899" height="223" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1584304764443" />
+    <state width="1899" height="223" key="GridCell.Tab.0.left" timestamp="1584304764443">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="223" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1584295729701" />
-    <state width="1899" height="223" key="GridCell.Tab.0.right" timestamp="1584295729701">
+    <state width="1899" height="223" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1584304764443" />
+    <state width="1899" height="223" key="GridCell.Tab.0.right" timestamp="1584304764443">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="223" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1584295729701" />
-    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1584295527462">
+    <state width="1899" height="223" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1584304764443" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1584428175736">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584295527462" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584428175736" />
   </component>
 </project>
