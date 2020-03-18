@@ -105,7 +105,7 @@ llist.append("A")
 llist.append("B")
 llist.append("C")
 llist.append("D")
-
+#DENEME 1
 
 llist.print_list()
 llist.delete_node('D')
