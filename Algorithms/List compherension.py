@@ -30,3 +30,21 @@ print([n for n in nums])
 # Using a filter + lambda
 # my_list = filter(lambda n: n%2 == 0, nums)
 # print(my_list)
+
+# I want a (letter, num) pair for each letter in 'abcd' and each number in '0123'
+# my_list = []
+# for letter in 'abcd':
+#   for num in range(4):
+#     my_list.append((letter,num))
+# print(my_list)
+
+# Dictionary Comprehensions
+names = ['Bruce', 'Clark', 'Peter', 'Logan', 'Wade']
+heros = ['Batman', 'Superman', 'Spiderman', 'Wolverine', 'Deadpool']
+# print zip(names, heros)
+
+# I want a dict{'name': 'hero'} for each name,hero in zip(names, heros)
+# my_dict = {}
+# for name, hero in zip(names, heros):
+#     my_dict[name] = hero
+# print(my_dict)
