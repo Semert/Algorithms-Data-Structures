@@ -48,3 +48,21 @@ heros = ['Batman', 'Superman', 'Spiderman', 'Wolverine', 'Deadpool']
 # for name, hero in zip(names, heros):
 #     my_dict[name] = hero
 # print(my_dict)
+
+# If name not equal to Peter
+
+# Set Comprehensions
+# nums = [1,1,2,1,3,4,3,4,5,5,6,7,8,7,9,9]
+# my_set = set()
+# for n in nums:
+#     my_set.add(n)
+# print(my_set)
+
+
+# Generator Expressions
+# I want to yield 'n*n' for each 'n' in nums
+nums = [1,2,3,4,5,6,7,8,9,10]
+
+# def gen_func(nums):
+#     for n in nums:
+#         yield n*n
