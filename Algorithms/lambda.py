@@ -124,5 +124,9 @@ print(square(lst1))
 #############
 
 print(list(map(lambda x:x**2,lst1)))
+
+print(list(filter(lambda x:x>2,lst1)))
+
+#############
 # List compherension
 print([x**2 for x in lst1])
