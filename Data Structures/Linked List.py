@@ -100,34 +100,4 @@ llist.display()
 #             curIndex += 1
 #
 #
-#     def erase(self,index):
-#         if index >= self.length():
-#             print("Error Out of Index")
-#             return None
-#         curIndex = 0
-#         curNode = self.head
-#         while True:
-#             lastNode = curNode
-#             curNode = curNode.next
-#             if curIndex==index:
-#                 lastNode.next = curNode.next
-#                 return
-#             curIndex += 1
-#
-#
-# myList = LinkedList()
-#
-# myList.display()
-#
-# myList.append(1)
-# myList.append(2)
-# myList.append(3)
-#
-# myList.display()
-# print("element at 2nd index %d" % myList.get(2))
-#
-# myList.erase(1)
-# myList.display()
 
-
-# New Linked list script will be added.
