@@ -78,26 +78,4 @@ llist.display()
 #             total += 1
 #             curNode = curNode.next
 #         return total
-#
-#     def display(self):
-#         elements = []
-#         curNode = self.head
-#         while curNode.next!=None:
-#             curNode = curNode.next
-#             elements.append(curNode.data)
-#         print(elements)
-#
-#     def get(self,index):
-#         if index >= self.length():
-#             print("Error Out of Index")
-#             return None
-#         curIndex = 0
-#         curNode = self.head
-#         while True:
-#             curNode = curNode.next
-#             if(curIndex == index):
-#                 return curNode.data
-#             curIndex += 1
-#
-#
 
