@@ -120,6 +120,14 @@ llist.display()
 # myList.display()
 #
 # myList.append(1)
-# myList.
+# myList.append(2)
+# myList.append(3)
+#
+# myList.display()
+# print("element at 2nd index %d" % myList.get(2))
+#
+# myList.erase(1)
+# myList.display()
+
 
 # New Linked list script will be added.
