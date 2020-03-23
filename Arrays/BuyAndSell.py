@@ -28,3 +28,5 @@ def buy_and_sell_stock_once(prices):
         max_profit = max(max_profit, compare_profit)
 
     return max_profit
+
+print(buy_and_sell_once(A))
