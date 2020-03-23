@@ -15,3 +15,6 @@ def plus_one(A):
         A[0] = 1
         A.append(0)
     return A
+
+print(plus_one(A1))
+print(plus_one(A2))
