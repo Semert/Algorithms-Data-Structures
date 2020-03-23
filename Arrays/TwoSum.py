@@ -23,3 +23,21 @@ def two_sum_hash_table(A, target):
         else:
             ht[target - A[i]] = A[i]
     return False
+
+
+# Time Complexity: O(n)
+# Space Complexity: O(1)
+def two_sum(A, target):
+    i = 0
+    j = len(A) - 1
+    while i < j:
+        if A[i] + A[j] == target:
+            print(A[i], A[j])
+            return True
+        elif A[i] + A[j] < target:
+            i += 1
+        else:
+            j -= 1
+    return False
+
+
