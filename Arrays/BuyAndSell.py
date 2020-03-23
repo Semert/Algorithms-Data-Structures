@@ -1,4 +1,3 @@
-# YouTube video: https://www.youtube.com/watch?v=7AMjRbJhsKM
 A = [310, 315, 275, 295, 260, 270, 290, 230, 255, 250]
 
 
