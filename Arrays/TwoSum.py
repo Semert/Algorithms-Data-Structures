@@ -41,3 +41,6 @@ def two_sum(A, target):
     return False
 
 
+print(two_sum_brute_force(A, target))
+print(two_sum_hash_table(A, target))
+print(two_sum(A, target))
