@@ -8,15 +8,15 @@ print(my_list)
 
 print([n for n in nums])
 
-I want 'n*n' for each 'n' in nums
-my_list = []
-for n in nums:
-  my_list.append(n*n)
-print(my_list)
-
-Using a map + lambda
-my_list = map(lambda n: n*n, nums)
-print(my_list)
+# I want 'n*n' for each 'n' in nums
+# my_list = []
+# for n in nums:
+#   my_list.append(n*n)
+# print(my_list)
+#
+# Using a map + lambda
+# my_list = map(lambda n: n*n, nums)
+# print(my_list)
 
 
 
@@ -32,11 +32,11 @@ print(my_list)
 # print(my_list)
 
 # I want a (letter, num) pair for each letter in 'abcd' and each number in '0123'
-# my_list = []
-# for letter in 'abcd':
-#   for num in range(4):
-#     my_list.append((letter,num))
-# print(my_list)
+my_list = []
+for letter in 'abcd':
+  for num in range(4):
+    my_list.append((letter,num))
+print(my_list)
 
 # Dictionary Comprehensions
 # names = ['Bruce', 'Clark', 'Peter', 'Logan', 'Wade']
