@@ -53,49 +53,49 @@
 # print(k2)
 # print("----------------------")
 #
-def scopetest():
-    def do_local():
-        spam = "local spam"
-
-    def do_nonlocal():
-        nonlocal spam
-        spam = "nonlocal spam"
-
-    def do_global():
-        global spam
-        spam = "global spam"
-
-    spam = "test spam"
-
-    do_local()
-    print("After local assignment:", spam)
-    do_nonlocal()
-    print("After nonlocal assignment:", spam)
-    do_global()
-    print("After global assignment:", spam)
-
-scopetest()
-print("In global Scope", spam)
-#local cağrılamaz, nonlocalde çağrılamaz ama önceki spam değerini değiştirir.
-#Global olan heryerden çağrılabilir.
-print("----------------------")
+# def scopetest():
+#     def do_local():
+#         spam = "local spam"
 #
-# class araba():
-#     hiz = 0
-#     renk = ""
-#     def hizlan(self):
-#         self.hiz += self.hiz
+#     def do_nonlocal():
+#         nonlocal spam
+#         spam = "nonlocal spam"
 #
-# x = araba()
-# x.hiz = 100
-# x.hizlan()
+#     def do_global():
+#         global spam
+#         spam = "global spam"
 #
-# y = araba()
-# y.hiz = 70
-# y.hizlan()
+#     spam = "test spam"
 #
-# print("x arabanın hızı " , x.hiz)
-# print("y arabanın hızı " , y.hiz)
+#     do_local()
+#     print("After local assignment:", spam)
+#     do_nonlocal()
+#     print("After nonlocal assignment:", spam)
+#     do_global()
+#     print("After global assignment:", spam)
+#
+# scopetest()
+# print("In global Scope", spam)
+# #local cağrılamaz, nonlocalde çağrılamaz ama önceki spam değerini değiştirir.
+# #Global olan heryerden çağrılabilir.
+# print("----------------------")
+#
+class araba():
+    hiz = 0
+    renk = ""
+    def hizlan(self):
+        self.hiz += self.hiz
+
+x = araba()
+x.hiz = 100
+x.hizlan()
+
+y = araba()
+y.hiz = 70
+y.hizlan()
+
+print("x arabanın hızı " , x.hiz)
+print("y arabanın hızı " , y.hiz)
 
 #############
 def topla(x,y):
