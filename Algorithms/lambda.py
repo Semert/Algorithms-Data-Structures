@@ -80,34 +80,34 @@
 # #Global olan heryerden çağrılabilir.
 # print("----------------------")
 #
-class araba():
-    hiz = 0
-    renk = ""
-    def hizlan(self):
-        self.hiz += self.hiz
+# class araba():
+#     hiz = 0
+#     renk = ""
+#     def hizlan(self):
+#         self.hiz += self.hiz
+#
+# x = araba()
+# x.hiz = 100
+# x.hizlan()
+#
+# y = araba()
+# y.hiz = 70
+# y.hizlan()
+#
+# print("x arabanın hızı " , x.hiz)
+# print("y arabanın hızı " , y.hiz)
 
-x = araba()
-x.hiz = 100
-x.hizlan()
-
-y = araba()
-y.hiz = 70
-y.hizlan()
-
-print("x arabanın hızı " , x.hiz)
-print("y arabanın hızı " , y.hiz)
-
-#############
-def topla(x,y):
-    return x+y
-print(topla(3,5))
-#######
-sum = lambda x,y : x+y
-print(sum(3,5))
-#######
-mx = lambda x,y: x if x > y else y
-print(mx(3,5))
-#############
+# #############
+# def topla(x,y):
+#     return x+y
+# print(topla(3,5))
+# #######
+# sum = lambda x,y : x+y
+# print(sum(3,5))
+# #######
+# mx = lambda x,y: x if x > y else y
+# print(mx(3,5))
+# #############
 
 #############
 lst1=[1,2,3,4]
