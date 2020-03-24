@@ -36,21 +36,21 @@
 # print(liste2)
 # print(liste3)
 # print("----------------------")
-
-l5 = [1,2,3,1,2]
-k = set(l5)     #Küme tekrarları yazmaz. String içinde geçerli.
-print(l5)
-print(k)
+#
+# l5 = [1,2,3,1,2]
+# k = set(l5)     #Küme tekrarları yazmaz. String içinde geçerli.
+# print(l5)
+# print(k)
 #
 # print("----------------------")
-#
-# deneme = {"no":123, "no 2":345}
-# print(deneme["no"])
-# for key, value in deneme.items():
-#     print(key,value)
-#
-# k2 = {x: x**2 for x in range(1,5)}
-# print(k2)
+
+deneme = {"no":123, "no 2":345}
+print(deneme["no"])
+for key, value in deneme.items():
+    print(key,value)
+
+k2 = {x: x**2 for x in range(1,5)}
+print(k2)
 # print("----------------------")
 #
 # def scopetest():
