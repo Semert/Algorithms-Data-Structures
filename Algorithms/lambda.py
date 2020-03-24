@@ -1,11 +1,11 @@
-#
-# l1=[]
-# for x in range(1,11):
-#     l1.append(x**2)
-#
-# print(l1)
-# print(x) # x değişkeni istemediğimiz halde var. Lambda kullanınca sadece çalışırken var oluyor sonra yok oluyor.
-# print("----------------------")
+
+l1=[]
+for x in range(1,11):
+    l1.append(x**2)
+
+print(l1)
+print(x) # x değişkeni istemediğimiz halde var. Lambda kullanınca sadece çalışırken var oluyor sonra yok oluyor.
+print("----------------------")
 #
 # def abc(x):
 #     return x+5
