@@ -109,22 +109,22 @@
 # print(mx(3,5))
 # #############
 
-#############
-lst1=[1,2,3,4]
-def square(lst1):
-    lst2 = []
-    for num in lst1:
-        lst2.append(num ** 2)
-    return lst2
-
-print(square(lst1))
-#############
-
-print(list(map(lambda x:x**2,lst1)))
-
-print(list(filter(lambda x:x>2,lst1)))
-
-#############
-# List compherension
-print([x**2 for x in lst1])
-print([x for x in lst1 if x>2])
+# #############
+# lst1=[1,2,3,4]
+# def square(lst1):
+#     lst2 = []
+#     for num in lst1:
+#         lst2.append(num ** 2)
+#     return lst2
+#
+# print(square(lst1))
+#
+# print(list(map(lambda x:x**2,lst1)))
+#
+# print(list(filter(lambda x:x>2,lst1)))
+#
+# # List compherension
+# print([x**2 for x in lst1])
+# print([x for x in lst1 if x>2])
+# #############
+#
