@@ -41,7 +41,7 @@
       <recent name="C:\Users\pc\Desktop\Python\Algorithms" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Test">
+  <component name="RunManager" selected="Python.lambda">
     <configuration name="LinkedList-Length" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -170,8 +170,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Test" />
         <item itemvalue="Python.lambda" />
+        <item itemvalue="Python.Test" />
         <item itemvalue="Python.LinkedList-Length" />
         <item itemvalue="Python.Work3," />
         <item itemvalue="Python.Stack" />
