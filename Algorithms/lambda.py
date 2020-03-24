@@ -21,27 +21,26 @@
 # print(squares2)
 # print(x) # x'i yine yazdı ama bu işlem daha pratik. one line.
 #
-print("----------------------")
-l3 = [(x,x**2) for x in range(2,4)]
-print(l3)
-
-for x,y in l3:
-    print(x,y)
-
-liste = [(x,y) for x in [1,2,3] for y in [3,1,4] if(x==y)]
-
-liste2 = [(x,y) for x in [1,2,3] for y in [3,1,4] if(x!=y)]
-
-liste3 = [(x,y,z) for x in [1,2,3] for y,z in [(3,1),(1,2),(4,3)] if(x!=y)]
-print(liste)
-print(liste2)
-print(liste3)
-print("----------------------")
+# print("----------------------")
+# l3 = [(x,x**2) for x in range(2,4)]
+# print(l3)
 #
-# l5 = [1,2,3,1,2]
-# k = set(l5)     #Küme tekrarları yazmaz. String içinde geçerli.
-# print(l5)
-# print(k)
+# for x,y in l3:
+#     print(x,y)
+# liste = [(x,y) for x in [1,2,3] for y in [3,1,4] if(x==y)]
+#
+# liste2 = [(x,y) for x in [1,2,3] for y in [3,1,4] if(x!=y)]
+#
+# liste3 = [(x,y,z) for x in [1,2,3] for y,z in [(3,1),(1,2),(4,3)] if(x!=y)]
+# print(liste)
+# print(liste2)
+# print(liste3)
+# print("----------------------")
+
+l5 = [1,2,3,1,2]
+k = set(l5)     #Küme tekrarları yazmaz. String içinde geçerli.
+print(l5)
+print(k)
 #
 # print("----------------------")
 #
