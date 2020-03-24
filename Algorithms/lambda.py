@@ -44,41 +44,41 @@
 #
 # print("----------------------")
 
-deneme = {"no":123, "no 2":345}
-print(deneme["no"])
-for key, value in deneme.items():
-    print(key,value)
+# deneme = {"no":123, "no 2":345}
+# print(deneme["no"])
+# for key, value in deneme.items():
+#     print(key,value)
+#
+# k2 = {x: x**2 for x in range(1,5)}
+# print(k2)
+# print("----------------------")
+#
+def scopetest():
+    def do_local():
+        spam = "local spam"
 
-k2 = {x: x**2 for x in range(1,5)}
-print(k2)
-# print("----------------------")
-#
-# def scopetest():
-#     def do_local():
-#         spam = "local spam"
-#
-#     def do_nonlocal():
-#         nonlocal spam
-#         spam = "nonlocal spam"
-#
-#     def do_global():
-#         global spam
-#         spam = "global spam"
-#
-#     spam = "test spam"
-#
-#     do_local()
-#     print("After local assignment:", spam)
-#     do_nonlocal()
-#     print("After nonlocal assignment:", spam)
-#     do_global()
-#     print("After global assignment:", spam)
-#
-# scopetest()
-# print("In global Scope", spam)
-# #local cağrılamaz, nonlocalde çağrılamaz ama önceki spam değerini değiştirir.
-# #Global olan heryerden çağrılabilir.
-# print("----------------------")
+    def do_nonlocal():
+        nonlocal spam
+        spam = "nonlocal spam"
+
+    def do_global():
+        global spam
+        spam = "global spam"
+
+    spam = "test spam"
+
+    do_local()
+    print("After local assignment:", spam)
+    do_nonlocal()
+    print("After nonlocal assignment:", spam)
+    do_global()
+    print("After global assignment:", spam)
+
+scopetest()
+print("In global Scope", spam)
+#local cağrılamaz, nonlocalde çağrılamaz ama önceki spam değerini değiştirir.
+#Global olan heryerden çağrılabilir.
+print("----------------------")
 #
 # class araba():
 #     hiz = 0
