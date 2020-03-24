@@ -1,21 +1,21 @@
-
-l1=[]
-for x in range(1,11):
-    l1.append(x**2)
-
-print(l1)
-print(x) # x değişkeni istemediğimiz halde var. Lambda kullanınca sadece çalışırken var oluyor sonra yok oluyor.
-print("----------------------")
 #
-# def abc(x):
-#     return x+5
-# l2 = [1,2,3]
-# print(list(map(abc,l2)))
+# l1=[]
+# for x in range(1,11):
+#     l1.append(x**2)
 #
-# # Bu işlemde x, çalıştıktan sonra yok olur.
-# print(list(map(lambda x: x+5, range(1,11))))
-# print(list(map(lambda x: x**2, range(1,11))))
+# print(l1)
+# print(x) # x değişkeni istemediğimiz halde var. Lambda kullanınca sadece çalışırken var oluyor sonra yok oluyor.
 # print("----------------------")
+#
+def abc(x):
+    return x+5
+l2 = [1,2,3]
+print(list(map(abc,l2)))
+
+# Bu işlemde x, çalıştıktan sonra yok olur.
+print(list(map(lambda x: x+5, range(1,11))))
+print(list(map(lambda x: x**2, range(1,11))))
+print("----------------------")
 #
 # squares = [x**2 for x in range(1,11)]
 # squares2 = [x**2 for x in range(1,11) if(x%2==0)] # x**2 1'den 10'a 2'ye bölünebilenleri yazdır.
