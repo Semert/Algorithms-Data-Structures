@@ -69,7 +69,6 @@ print([n for n in nums])
 #     for n in nums:
 #         yield n*n
 
-
 # my_gen = gen_func(nums)
 
 # for i in my_gen:
