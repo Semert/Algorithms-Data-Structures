@@ -43,7 +43,13 @@ print([n for n in nums])
 # heros = ['Batman', 'Superman', 'Spiderman', 'Wolverine', 'Deadpool']
 # print(zip(names, heros))
 
+# I want a dict{'name': 'hero'} for each name,hero in zip(names, heros)
+# my_dict = {}
+# for name, hero in zip(names, heros):
+#     my_dict[name] = hero
+# print(my_dict)
 
+# If name not equal to Peter
 
 # Set Comprehensions
 # nums = [1,1,2,1,3,4,3,4,5,5,6,7,8,7,9,9]
