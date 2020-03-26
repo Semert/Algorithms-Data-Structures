@@ -1,57 +1,57 @@
 
-l1=[]
-for x in range(1,11):
-    l1.append(x**2)
+# l1=[]
+# for x in range(1,11):
+#     l1.append(x**2)
+#
+# print(l1)
+# print(x) # x değişkeni istemediğimiz halde var. Lambda kullanınca sadece çalışırken var oluyor sonra yok oluyor.
+# print("----------------------")
+#
+# def abc(x):
+#     return x+5
+# l2 = [1,2,3]
+# print(list(map(abc,l2)))
+# # Bu işlemde x, çalıştıktan sonra yok olur.
+# print(list(map(lambda x: x+5, range(1,11))))
+# print(list(map(lambda x: x**2, range(1,11))))
+# print("----------------------")
+# squares = [x**2 for x in range(1,11)]
+# squares2 = [x**2 for x in range(1,11) if(x%2==0)] # x**2 1'den 10'a 2'ye bölünebilenleri yazdır.
+# print(squares)
+# print(squares2)
+# print(x) # x'i yine yazdı ama bu işlem daha pratik. one line.
 
-print(l1)
-print(x) # x değişkeni istemediğimiz halde var. Lambda kullanınca sadece çalışırken var oluyor sonra yok oluyor.
+print("----------------------")
+l3 = [(x,x**2) for x in range(2,4)]
+print(l3)
+
+for x,y in l3:
+    print(x,y)
+liste = [(x,y) for x in [1,2,3] for y in [3,1,4] if(x==y)]
+
+liste2 = [(x,y) for x in [1,2,3] for y in [3,1,4] if(x!=y)]
+
+liste3 = [(x,y,z) for x in [1,2,3] for y,z in [(3,1),(1,2),(4,3)] if(x!=y)]
+print(liste)
+print(liste2)
+print(liste3)
 print("----------------------")
 
-def abc(x):
-    return x+5
-l2 = [1,2,3]
-print(list(map(abc,l2)))
-# Bu işlemde x, çalıştıktan sonra yok olur.
-print(list(map(lambda x: x+5, range(1,11))))
-print(list(map(lambda x: x**2, range(1,11))))
+l5 = [1,2,3,1,2]
+k = set(l5)     #Küme tekrarları yazmaz. String içinde geçerli.
+print(l5)
+print(k)
+
 print("----------------------")
-squares = [x**2 for x in range(1,11)]
-squares2 = [x**2 for x in range(1,11) if(x%2==0)] # x**2 1'den 10'a 2'ye bölünebilenleri yazdır.
-print(squares)
-print(squares2)
-print(x) # x'i yine yazdı ama bu işlem daha pratik. one line.
 
-# print("----------------------")
-# l3 = [(x,x**2) for x in range(2,4)]
-# print(l3)
-#
-# for x,y in l3:
-#     print(x,y)
-# liste = [(x,y) for x in [1,2,3] for y in [3,1,4] if(x==y)]
-#
-# liste2 = [(x,y) for x in [1,2,3] for y in [3,1,4] if(x!=y)]
-#
-# liste3 = [(x,y,z) for x in [1,2,3] for y,z in [(3,1),(1,2),(4,3)] if(x!=y)]
-# print(liste)
-# print(liste2)
-# print(liste3)
-# print("----------------------")
-#
-# l5 = [1,2,3,1,2]
-# k = set(l5)     #Küme tekrarları yazmaz. String içinde geçerli.
-# print(l5)
-# print(k)
-#
-# print("----------------------")
+deneme = {"no":123, "no 2":345}
+print(deneme["no"])
+for key, value in deneme.items():
+    print(key,value)
 
-# deneme = {"no":123, "no 2":345}
-# print(deneme["no"])
-# for key, value in deneme.items():
-#     print(key,value)
-#
-# k2 = {x: x**2 for x in range(1,5)}
-# print(k2)
-# print("----------------------")
+k2 = {x: x**2 for x in range(1,5)}
+print(k2)
+print("----------------------")
 #
 # def scopetest():
 #     def do_local():

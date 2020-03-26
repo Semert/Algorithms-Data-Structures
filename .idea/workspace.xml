@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="404e024f-483b-4cbf-a95b-1356fbca11e1" name="Default Changelist" comment="" />
+    <list default="true" id="404e024f-483b-4cbf-a95b-1356fbca11e1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/lambda.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/lambda.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,7 +42,7 @@
       <recent name="C:\Users\pc\Desktop\Python\Algorithms" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.List compherension">
+  <component name="RunManager" selected="Python.lambda">
     <configuration name="LinkedList-Length" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -147,8 +150,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.List compherension" />
         <item itemvalue="Python.lambda" />
+        <item itemvalue="Python.List compherension" />
         <item itemvalue="Python.Test" />
         <item itemvalue="Python.LinkedList-Length" />
         <item itemvalue="Python.Work3," />
@@ -173,22 +176,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1584428201820" />
-    <state width="1899" height="223" key="GridCell.Tab.0.bottom" timestamp="1585053463708">
+    <state width="1899" height="223" key="GridCell.Tab.0.bottom" timestamp="1585255349718">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="223" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585053463708" />
-    <state width="1899" height="223" key="GridCell.Tab.0.center" timestamp="1585053463708">
+    <state width="1899" height="223" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585255349718" />
+    <state width="1899" height="223" key="GridCell.Tab.0.center" timestamp="1585255349718">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="223" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585053463708" />
-    <state width="1899" height="223" key="GridCell.Tab.0.left" timestamp="1585053463708">
+    <state width="1899" height="223" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585255349718" />
+    <state width="1899" height="223" key="GridCell.Tab.0.left" timestamp="1585255349718">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="223" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585053463708" />
-    <state width="1899" height="223" key="GridCell.Tab.0.right" timestamp="1585053463708">
+    <state width="1899" height="223" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585255349718" />
+    <state width="1899" height="223" key="GridCell.Tab.0.right" timestamp="1585255349718">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="223" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585053463708" />
+    <state width="1899" height="223" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585255349718" />
     <state width="1899" height="348" key="GridCell.Tab.1.bottom" timestamp="1584652761120">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
