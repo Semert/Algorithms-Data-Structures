@@ -4,7 +4,7 @@ print("Unsorted list ", list1)
 for i in range(len(list1)):
     min_value = min(list1[i:]) # Her aşamada i kadar element atlayacak.
     min_index = list1.index(min_value)
-    list1[i],list1[min_index] = list1[min_index],list1[i]
+    list1[i], list1[min_index] = list1[min_index], list1[i]
 
 print("Sorted list ", list1)
 
@@ -17,7 +17,7 @@ print("Unsorted list ", list1)
 for i in range(len(list1)):  # -1 yaparsak son elemen zaten sort olmuş olacağı için bir sorun olmaz.
     min_value = min(list1[i:]) # Her aşamada i kadar element atlayacak.
     min_index = list1.index(min_value,i)
-    list1[i],list1[min_index] = list1[min_index],list1[i]
+    list1[i], list1[min_index] = list1[min_index], list1[i]
 
 print("Sorted List", list1)
 
@@ -25,7 +25,7 @@ for i in range(len(list1)-1):  # -1 yaparsak son elemen zaten sort olmuş olaca�
     min_value = min(list1[i:]) # Her aşamada i kadar element atlayacak.
     min_index = list1.index(min_value,i)
     if list1[i] != list1[min_index]: #Aynı sayıları swap etmesine gerek yok.
-        list1[i],list1[min_index] = list1[min_index],list1[i]
+        list1[i], list1[min_index] = list1[min_index], list1[i]
 
 print("Sorted List", list1)
 
@@ -42,7 +42,7 @@ for i in range(len(list1)-1):
             min_value = list1[j]
     min_index = list1.index(min_value)
     if list1[i] != list1[min_index]:
-        list1[i],list1[min_index] = list1[min_index],list1[i]
+        list1[i], list1[min_index] = list1[min_index], list1[i]
 print("Sorted List", list1)
 
 # Duplicate values
@@ -58,7 +58,7 @@ for i in range(len(list1)-1):
 
     min_index = list1.index(min_value,i)
     if list1[i] != list1[min_index]:
-        list1[i],list1[min_index] = list1[min_index],list1[i]
+        list1[i], list1[min_index] = list1[min_index], list1[i]
 print("Sorted List", list1)
 
 print("--------------------------------------")
@@ -77,7 +77,7 @@ for i in range(len(list1)-1):
 
     max_index = list1.index(max_value,i)
     if list1[i] != list1[max_index]:
-        list1[i],list1[max_index] = list1[max_index],list1[i]
+        list1[i], list1[max_index] = list1[max_index], list1[i]
 print("Sorted List", list1)
 
 print("--------------------------------------")
@@ -94,7 +94,7 @@ for i in range(len(list1)-1):
             max_index = j
 
     if list1[i] != list1[max_index]:
-        list1[i],list1[max_index] = list1[max_index],list1[i]
+        list1[i], list1[max_index] = list1[max_index], list1[i]
 print("Sorted List", list1)
 
 
