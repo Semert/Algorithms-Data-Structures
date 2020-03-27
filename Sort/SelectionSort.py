@@ -98,5 +98,8 @@ for i in range(len(list1)-1):
 print("Sorted List", list1)
 
 
+# num = int(input("how many numbers you want to enter?"))
+# list2 = [int(input("Enter number")) for x in range(num)]
+
 
 
