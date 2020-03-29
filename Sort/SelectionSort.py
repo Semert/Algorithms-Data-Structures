@@ -84,18 +84,18 @@ print("--------------------------------------")
 
 # Without using index method
 
-# list1 = [11,0,3,2,2,55,7,0]
-# print("Unsorted list ", list1)
-#
-# for i in range(len(list1)-1):
-#     max_index = i
-#     for j in range(i+1,len(list1)):
-#         if list1[j] < list1[max_index]:
-#             max_index = j
-#
-#     if list1[i] != list1[max_index]:
-#         list1[i], list1[max_index] = list1[max_index], list1[i]
-# print("Sorted List", list1)
+list1 = [11,0,3,2,2,55,7,0]
+print("Unsorted list ", list1)
+
+for i in range(len(list1)-1):
+    max_index = i
+    for j in range(i+1,len(list1)):
+        if list1[j] < list1[max_index]:
+            max_index = j
+
+    if list1[i] != list1[max_index]:
+        list1[i], list1[max_index] = list1[max_index], list1[i]
+print("Sorted List", list1)
 
 
 # num = int(input("how many numbers you want to enter?"))
