@@ -64,7 +64,7 @@ print("Sorted List", list1)
 print("--------------------------------------")
 
 
-# Büyükten Küçüğe [Decending order]
+# Büyükten Küçüğe [Descending order]
 
 list1 = [11,0,3,2,2,55,7,0]
 print("Unsorted list ", list1)
