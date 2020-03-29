@@ -32,18 +32,18 @@ print("Sorted List", list1)
 print("--------------------------------------")
 
 # Without using built method (min)
-list1 = [11,3,2,55,7,0]
-print("Unsorted list ", list1)
-
-for i in range(len(list1)-1):
-    min_value = list1[i]
-    for j in range(i+1,len(list1)):
-        if list1[j] < min_value:
-            min_value = list1[j]
-    min_index = list1.index(min_value)
-    if list1[i] != list1[min_index]:
-        list1[i], list1[min_index] = list1[min_index], list1[i]
-print("Sorted List", list1)
+# list1 = [11,3,2,55,7,0]
+# print("Unsorted list ", list1)
+#
+# for i in range(len(list1)-1):
+#     min_value = list1[i]
+#     for j in range(i+1,len(list1)):
+#         if list1[j] < min_value:
+#             min_value = list1[j]
+#     min_index = list1.index(min_value)
+#     if list1[i] != list1[min_index]:
+#         list1[i], list1[min_index] = list1[min_index], list1[i]
+# print("Sorted List", list1)
 
 # Duplicate values
 
