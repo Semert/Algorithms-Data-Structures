@@ -55,9 +55,9 @@ print(my_list)
 # print(my_list)
 
 # Dictionary Comprehensions
-# names = ['Bruce', 'Clark', 'Peter', 'Logan', 'Wade']
-# heros = ['Batman', 'Superman', 'Spiderman', 'Wolverine', 'Deadpool']
-# print(zip(names, heros))
+names = ['Bruce', 'Clark', 'Peter', 'Logan', 'Wade']
+heros = ['Batman', 'Superman', 'Spiderman', 'Wolverine', 'Deadpool']
+print(list(zip(names, heros)))
 
 # I want a dict{'name': 'hero'} for each name,hero in zip(names, heros)
 # my_dict = {}
