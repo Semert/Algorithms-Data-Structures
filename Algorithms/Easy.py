@@ -70,6 +70,20 @@ import sys
 #     print("%.6f" % l)
     #print(y/length,x/length,z/length)
 #---------------------------------------
+# https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem
+def breakingRecords(scores):
+    first = scores[0]
+    low = scores[0]
+    count = 0
+    count2 = 0
+    for i in range(1, len(scores)):
+        if (first < scores[i]):
+            first = scores[i]
+            count += 1
+        if (low > scores[i]):
+            low = scores[i]
+            count2 += 1
+    return count, count2
 
 
 
