@@ -5,7 +5,8 @@ my_list = []
 for n in nums:
   my_list.append(n)
 print(my_list)
-
+my_list2 = [n for n in nums]
+print(my_list2)
 print([n for n in nums])
 
 # I want 'n*n' for each 'n' in nums
