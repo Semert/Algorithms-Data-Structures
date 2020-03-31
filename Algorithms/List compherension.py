@@ -20,7 +20,7 @@ print([n for n in nums])
 # Using a map + lambda
 # my_list = map(lambda n: n*n, nums)
 # print(my_list)
-
+                  #  def & func     array
 my_list3 = list(map(lambda x:x**2, nums))
 print(my_list3)
 
