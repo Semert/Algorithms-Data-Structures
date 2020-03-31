@@ -20,12 +20,11 @@ print([n for n in nums])
 
 def create_arr():
   from random import randint
-  size = 10
-  max = 50
+  size, max = 10, 50
   liste = [randint(0,max) for _ in range(size)]
   print(liste)
 
-
+create_arr()
 
 
 # I want 'n' for each 'n' in nums if 'n' is even
