@@ -44,6 +44,9 @@ create_arr()
 # my_list = filter(lambda n: n%2 == 0, nums)
 # print(my_list)
 
+my_list = list(filter(lambda n: n%2 == 0, nums))
+print(my_list)
+
 # I want a (letter, num) pair for each letter in 'abcd' and each number in '0123'
 # my_list = []
 # for letter in 'abcd':
