@@ -5,8 +5,10 @@ my_list = []
 for n in nums:
   my_list.append(n)
 print(my_list)
+
 my_list2 = [n for n in nums]
 print(my_list2)
+
 print([n for n in nums])
 
 # I want 'n*n' for each 'n' in nums
@@ -18,6 +20,9 @@ print([n for n in nums])
 # Using a map + lambda
 # my_list = map(lambda n: n*n, nums)
 # print(my_list)
+
+my_list3 = list(map(lambda x:x**2, nums))
+print(my_list3)
 
 def create_arr():
   from random import randint
