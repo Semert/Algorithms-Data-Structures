@@ -18,6 +18,14 @@ print([n for n in nums])
 # my_list = map(lambda n: n*n, nums)
 # print(my_list)
 
+def create_arr():
+  from random import randint
+  size = 10
+  max = 50
+  liste = [randint(0,max) for _ in range(size)]
+  print(liste)
+
+
 
 
 # I want 'n' for each 'n' in nums if 'n' is even
