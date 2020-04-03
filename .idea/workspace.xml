@@ -42,7 +42,7 @@
       <recent name="C:\Users\pc\Desktop\Python\Algorithms" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.List compherension">
+  <component name="RunManager" selected="Python.is_unique">
     <configuration name="BubbleSort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -106,7 +106,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="is_unique" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -114,11 +114,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algorithms" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Technical Interview" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algorithms/Test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Technical Interview/is_unique.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.is_unique" />
         <item itemvalue="Python.List compherension" />
         <item itemvalue="Python.BubbleSort" />
         <item itemvalue="Python.SelectionSort" />
         <item itemvalue="Python.lambda" />
-        <item itemvalue="Python.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -208,9 +208,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585335727577" />
-    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1585856903844">
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1585916386568">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585856903844" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585916386568" />
   </component>
 </project>
