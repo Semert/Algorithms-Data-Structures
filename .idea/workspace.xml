@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="404e024f-483b-4cbf-a95b-1356fbca11e1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Technical Interview/Arrays/buy_and_sell_stock_once.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Technical Interview/array.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms/Easy.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/Easy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Technical Interview/Arrays/array_advance.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
