@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="404e024f-483b-4cbf-a95b-1356fbca11e1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Technical Interview/Sorting/optimal_task_assingment.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/Test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/Test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +44,7 @@
       <recent name="C:\Users\pc\Desktop\Python\Algorithms" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.look_and_say_sequence">
+  <component name="RunManager" selected="Python.Test">
     <configuration name="Easy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -65,7 +66,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="List compherension" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -77,7 +78,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algorithms/List compherension.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algorithms/Test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -151,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Test" />
         <item itemvalue="Python.look_and_say_sequence" />
         <item itemvalue="Python.Easy" />
         <item itemvalue="Python.array" />
         <item itemvalue="Python.is_unique" />
-        <item itemvalue="Python.List compherension" />
       </list>
     </recent_temporary>
   </component>
@@ -177,22 +178,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1585917307759" />
-    <state width="1899" height="223" key="GridCell.Tab.0.bottom" timestamp="1586087329299">
+    <state width="1899" height="223" key="GridCell.Tab.0.bottom" timestamp="1586107838910">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="223" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586087329299" />
-    <state width="1899" height="223" key="GridCell.Tab.0.center" timestamp="1586087329298">
+    <state width="1899" height="223" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586107838910" />
+    <state width="1899" height="223" key="GridCell.Tab.0.center" timestamp="1586107838910">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="223" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586087329298" />
-    <state width="1899" height="223" key="GridCell.Tab.0.left" timestamp="1586087329298">
+    <state width="1899" height="223" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586107838910" />
+    <state width="1899" height="223" key="GridCell.Tab.0.left" timestamp="1586107838909">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="223" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586087329298" />
-    <state width="1899" height="223" key="GridCell.Tab.0.right" timestamp="1586087329298">
+    <state width="1899" height="223" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586107838909" />
+    <state width="1899" height="223" key="GridCell.Tab.0.right" timestamp="1586107838910">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="223" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586087329298" />
+    <state width="1899" height="223" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586107838910" />
     <state width="1899" height="348" key="GridCell.Tab.1.bottom" timestamp="1585335727577">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -213,10 +214,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1585994920635" />
-    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1586085434293">
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1586107078034">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586085434293" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586107078034" />
     <state x="92" y="92" width="1736" height="856" key="dock-window-1" timestamp="1585929215083">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
