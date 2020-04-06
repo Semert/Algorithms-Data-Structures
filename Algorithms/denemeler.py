@@ -78,7 +78,4 @@ def next_number(s):
 
     sonuc1 = ((teksayac+1)//2)
     return sonuc1+sonuc2
-print("haha")
-print(next_number(s))
-print("haha")
 
