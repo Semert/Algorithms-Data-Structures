@@ -9,7 +9,7 @@ print(my_list)
 my_list2 = [n for n in nums]
 print(my_list2)
 
-print([n for n in nums])
+print([n for n in nums if n%2==0])
 
 # I want 'n*n' for each 'n' in nums
 # my_list = []
