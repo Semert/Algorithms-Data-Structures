@@ -66,6 +66,18 @@ array = [ 1,  -2,  4,  -8,  16,  -32]
 
 # print(sayı)
 
+# t = bin(2**3)
+# print(t)
+# if(yeni<0):
+#     o = t[3:]
+# else:
+#     o = t[2:]
+# print(o)
+#
+# print([int(y) for y in o])
+
+# print(type(t))
+
 newarr = []
 
 for i in range(len(a)):
