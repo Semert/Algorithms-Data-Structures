@@ -14,9 +14,7 @@
 #         toplama = 0
 #         if(count>15):
 #             return False
-#
-#
-# print(isHappy(n)),
+# print(isHappy(n))
 
 #--------------------------------
 # Move Zeros
