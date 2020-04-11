@@ -7,7 +7,7 @@ A2 = [9, 9, 9]
 
 def plus_one(A):
     A[-1] += 1
-    for i in reversed(range(1, len(A))):
+    for i in reversed(range(1, len(A))):  # For işlemini tersten yapar
         if A[i] != 10:
             break
         A[i] = 0
