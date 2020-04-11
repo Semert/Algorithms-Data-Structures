@@ -12,7 +12,7 @@ def plus_one(A):
             break
         A[i] = 0  # son elemanı 0 yap
         A[i-1] += 1  # sondan bir önceki elemanı 1 arttır.
-    if A[0] == 10:
+    if A[0] == 10:  # Eğer ilk eleman 10'a eşit ise ilk elemanı '1' yap sona '0' ekle.
         A[0] = 1
         A.append(0)
     return A
