@@ -10,8 +10,8 @@ def plus_one(A):
     for i in reversed(range(1, len(A))):  # For işlemini tersten yapar
         if A[i] != 10:
             break
-        A[i] = 0
-        A[i-1] += 1
+        A[i] = 0  # son elemanı 0 yap
+        A[i-1] += 1  # sondan bir önceki elemanı 1 arttır.
     if A[0] == 10:
         A[0] = 1
         A.append(0)
