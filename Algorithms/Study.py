@@ -1,11 +1,17 @@
+semih = {
+  "name": "Ford",
+  "model": "Mustang",
+  "year": 1964,
+    id : "aa"
+}
+
+string = "denemeler"
 
 
-def deneme(a):
-    en_uzak = 0
-    son_index = len(a)-1
-    i=0
-    while i < en_uzak and en_uzak < son_index:
-        en_uzak = max(en_uzak, a[i] + i)
-        i += 1
+def deneme(obje):
+    print(obje.get("name"))
 
-    return en_uzak >= son_index
+# deneme(string)
+deneme()
+
+# deneme(semih)
