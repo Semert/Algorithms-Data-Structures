@@ -20,6 +20,8 @@ def is_palindrome(s):
         i += 1
         j -= 1
     return True
-# test
+
+# studying
+
 
 print(is_palindrome(s))
