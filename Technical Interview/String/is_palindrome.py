@@ -21,7 +21,7 @@ def is_palindrome(s):
         j -= 1
     return True
 
-# studying
+# studying on questions
 
 
 print(is_palindrome(s))
