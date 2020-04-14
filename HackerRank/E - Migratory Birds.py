@@ -1,3 +1,5 @@
+arr = [1,1,4, 4, 4,3,3, 3,5]
+
 def migratoryBirds(arr):
     ht = dict()
     for i in arr:
