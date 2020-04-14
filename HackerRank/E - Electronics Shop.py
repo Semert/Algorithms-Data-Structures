@@ -25,3 +25,4 @@ def getMoneySpent(keyboards, usb, b):
 
 
 getMoneySpent(keyboards,usb,b)
+

@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="404e024f-483b-4cbf-a95b-1356fbca11e1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/HackerRank/E - Electronics Shop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/E - Cats and a Mouse.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/E - Electronics Shop.py" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/E - Electronics Shop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/E- Sock Merchant.py" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/E - Sock Merchant.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +89,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="E- Sock Merchant" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="E - Sock Merchant" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -99,7 +101,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HackerRank/E- Sock Merchant.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\pc\Desktop\Python\HackerRank\E - Sock Merchant.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,7 +155,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.E - Electronics Shop" />
-        <item itemvalue="Python.E- Sock Merchant" />
+        <item itemvalue="Python.E - Sock Merchant" />
         <item itemvalue="Python.E - Migratory Birds" />
         <item itemvalue="Python.optimal_task_assingment" />
         <item itemvalue="Python.Study" />
