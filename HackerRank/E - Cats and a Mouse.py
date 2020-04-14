@@ -9,3 +9,5 @@ def catAndMouse(x, y, z):
         return "Cat A"
     else:
         return "Cat B"
+
+print(catAndMouse(x,y,z))
