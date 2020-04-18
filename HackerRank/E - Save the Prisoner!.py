@@ -1,3 +1,5 @@
+# https://www.hackerrank.com/challenges/save-the-prisoner/problem
+
 n = 7
 m = 19
 s=2
