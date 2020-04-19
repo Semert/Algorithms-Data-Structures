@@ -13,3 +13,5 @@ def findDigits2(n)
         if (a != 0 and n%a == 0):
             count += 1
     return count
+
+# 2 answer added.
