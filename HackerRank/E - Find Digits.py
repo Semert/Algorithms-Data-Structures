@@ -6,7 +6,7 @@ def findDigits(n):
     return count
 
 
-def findDigits2(n)
+def findDigits2(n):
     a=[int(x) for x in str(n)]
     count=0
     for a in a:
