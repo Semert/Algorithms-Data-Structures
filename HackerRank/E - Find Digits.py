@@ -5,7 +5,7 @@ def findDigits(n):
             count += 1
     return count
 
-
+# Solution 2
 def findDigits2(n):
     a=[int(x) for x in str(n)]
     count=0
