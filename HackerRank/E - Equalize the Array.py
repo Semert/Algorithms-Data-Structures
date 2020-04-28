@@ -14,7 +14,7 @@ def equalizeArray(arr):
         if (v < maxocc):
             count += arr.count(k)
     return count
-
+# Solution 1
     max_c = -1
     max_item = None
     count = {}
