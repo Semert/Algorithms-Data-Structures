@@ -14,4 +14,4 @@ def findDigits2(n):
             count += 1
     return count
 
-# new questions 
+# new question
