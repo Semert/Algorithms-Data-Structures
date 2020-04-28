@@ -29,7 +29,7 @@ def equalizeArray(arr):
 
     return (len(aRR) - max_c)
 
-
+# Solution 2
 def equalizeArray(arr):
     d = {}
     for i in arr:
