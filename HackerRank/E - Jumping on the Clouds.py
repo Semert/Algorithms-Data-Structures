@@ -14,6 +14,8 @@ def jumpingOnClouds(c):
             i+=1
             #print('hopped 1 step')
     #print(hops)
+
+    # n == len(c)
     print(n)
     if i+2 ==n:
         print(n)
