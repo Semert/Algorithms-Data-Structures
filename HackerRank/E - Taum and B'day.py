@@ -1,4 +1,4 @@
-https://www.hackerrank.com/challenges/taum-and-bday/problem
+# https://www.hackerrank.com/challenges/taum-and-bday/problem
 def taumBday(b, w, bc, wc, z):
     diff=abs(bc-wc)
     if diff<=z:
