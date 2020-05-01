@@ -1,4 +1,4 @@
-https://www.hackerrank.com/challenges/mini-max-sum/problem
+# https://www.hackerrank.com/challenges/mini-max-sum/problem
 def miniMaxSum(arr):
     arr = sorted(arr)
     print(sum(arr[:-1]),sum(arr[1:])
