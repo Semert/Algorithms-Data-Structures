@@ -29,3 +29,15 @@ i,count=1,False
             return "NO"
     else:
         return "YES"
+
+# Solution 3
+    if (x1 < x2 and v1 < v2) or (x1 > x2 and v1 > v2):
+        return "NO"
+    elif ((x1 == x2) and (v1 != v2)) or ((x1 != x2) and (v1 == v2)):
+        return "NO"
+    elif (x1 > x2 and v1 > v2) or (x1 < x2 and v1 < v2):
+        return "NO"
+    if (x1 - x2) % (v1 - v2) == 0:
+        return "YES"
+    else:
+        return "NO"
