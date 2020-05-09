@@ -23,3 +23,5 @@ def getTotalX(a, b):
                 x += 1
 
     return x
+# Solution 2
+# return len([i for i in range(1, min(b)+1) if all(i%ab==0 for ab in a) and all(bb%i==0 for bb in b)])
