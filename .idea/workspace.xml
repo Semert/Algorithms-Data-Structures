@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="404e024f-483b-4cbf-a95b-1356fbca11e1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HackerRank/E - QA.py" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/E - QA.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -213,10 +214,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1585994920635" />
-    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1589047556952">
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1589288173699">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589047556952" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589288173699" />
     <state x="92" y="92" width="1736" height="856" key="dock-window-1" timestamp="1585929215083">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
