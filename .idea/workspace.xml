@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="404e024f-483b-4cbf-a95b-1356fbca11e1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/E - QA.py" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank/E - QA.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +32,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../technical_interview" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Mert Efe/try/yeni" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
@@ -174,57 +173,13 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1585917307759">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1598697622009">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1585917307759" />
-    <state width="1899" height="268" key="GridCell.Tab.0.bottom" timestamp="1587212160722">
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1598697622009" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1598697609784">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="268" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587212160722" />
-    <state width="1899" height="268" key="GridCell.Tab.0.center" timestamp="1587212160722">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1899" height="268" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587212160722" />
-    <state width="1899" height="268" key="GridCell.Tab.0.left" timestamp="1587212160722">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1899" height="268" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587212160722" />
-    <state width="1899" height="268" key="GridCell.Tab.0.right" timestamp="1587212160722">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1899" height="268" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587212160722" />
-    <state width="1899" height="348" key="GridCell.Tab.1.bottom" timestamp="1587159295887">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1899" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587159295887" />
-    <state width="1899" height="348" key="GridCell.Tab.1.center" timestamp="1587159295887">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1899" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587159295887" />
-    <state width="1899" height="348" key="GridCell.Tab.1.left" timestamp="1587159295887">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1899" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587159295887" />
-    <state width="1899" height="348" key="GridCell.Tab.1.right" timestamp="1587159295887">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1899" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587159295887" />
-    <state x="461" y="162" key="SettingsEditor" timestamp="1585994920635">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1585994920635" />
-    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1591801541532">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591801541532" />
-    <state x="92" y="92" width="1736" height="856" key="dock-window-1" timestamp="1585929215083">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="92" y="92" width="1736" height="856" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1585929215083" />
-    <state x="92" y="92" width="1736" height="856" key="dock-window-2" timestamp="1585929215083">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="92" y="92" width="1736" height="856" key="dock-window-2/0.0.1920.1040@0.0.1920.1040" timestamp="1585929215083" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598697609784" />
   </component>
 </project>
