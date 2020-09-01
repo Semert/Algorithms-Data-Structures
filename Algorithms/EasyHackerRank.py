@@ -11,12 +11,6 @@ def miniMaxSum(arr):
     a = []
     b = []
 
-    def funcmax():
-        min=0
-        for i in range(len(arr)):
-            if(arr[i] < min):
-                min = arr[i]
-        return min
 
 
     def funcMax():
@@ -32,7 +26,9 @@ def miniMaxSum(arr):
             if ( array[i] < min):
                 min = array[i]
         return min
+
     for i in range(1,len(array)):
+        # remove ile specific eleman silme işlemi.
         array.remove(funcMin())
         b.append(funcMin())
 
