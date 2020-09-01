@@ -11,6 +11,14 @@ def miniMaxSum(arr):
     a = []
     b = []
 
+    def funcmax():
+        max=0
+        for i in range(len(arr)):
+            if(arr[i] > max):
+                max = arr[i]
+        return max
+
+
     def funcMax():
         max = 0
         for i in range(len(arr)):
