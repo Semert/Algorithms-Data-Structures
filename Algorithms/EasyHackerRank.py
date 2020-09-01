@@ -35,5 +35,6 @@ def miniMaxSum(arr):
     for i in range(1,len(arr)):
         arr.remove(funcMax())
         a.append(funcMax())
+
     print(sum(a),sum(b))
 #-----------------------------------------
