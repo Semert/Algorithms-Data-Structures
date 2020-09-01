@@ -137,17 +137,17 @@ def solution(A):
             return (key)
 
 
-# newarr = []
-# for i in range(0,len(A) - 1):
-#     for j in range(i + 1, len(A)):
-#         if (A[i] == A[j]):
-#             newarr.append(A[i])
-# for i in A:
-#     if i not in newarr:
-#         print(i)
-# for i in A:
-#     print(i)
-# for i in range(len(A)):
-#     print(A[i])
+newarr = []
+for i in range(0,len(A) - 1):
+    for j in range(i + 1, len(A)):
+        if (A[i] == A[j]):
+            newarr.append(A[i])
+for i in A:
+    if i not in newarr:
+        print(i)
+for i in A:
+    print(i)
+for i in range(len(A)):
+    print(A[i])
 
 solution(A)
