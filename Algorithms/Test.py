@@ -87,10 +87,11 @@ print(word.split(':'))
 # ------------------------------------------------------
 
 
-word = 'CatBatSatFatOr'
 
-# Splitting at 3
-print([word[i:i + 3] for i in range(0, len(word), 3)])
+# word = 'CatBatSatFatOr'
+#
+# # Splitting at 3
+# print([word[i:i + 3] for i in range(0, len(word), 3)])
 
 # ------------------------------------------------------
 
