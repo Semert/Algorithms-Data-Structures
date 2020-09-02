@@ -87,7 +87,6 @@ print(word.split(':'))
 # ------------------------------------------------------
 
 
-
 word = 'CatBatSatFatOr'
 
 # Splitting at 3
