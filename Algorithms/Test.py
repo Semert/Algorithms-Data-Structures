@@ -46,7 +46,6 @@ print(list(y))
 
 # ------------------------------------------------------
 
-
 grocery = ['bread', 'milk', 'butter']
 
 print('\n')
@@ -85,7 +84,6 @@ word = 'geeks:for:geeks'
 print(word.split(':'))
 
 # ------------------------------------------------------
-
 
 word = 'CatBatSatFatOr'
 
