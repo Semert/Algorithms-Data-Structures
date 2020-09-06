@@ -7,7 +7,6 @@ semih = {
 
 string = "denemeler"
 
-
 def deneme(obje):
     print(obje.get("name"))
 
