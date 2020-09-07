@@ -12,5 +12,4 @@ def deneme(obje):
 
 # deneme(string)
 deneme()
-
 # deneme(semih)
