@@ -104,19 +104,19 @@ import sys
 #
 # ---------------------------------------
 # https://www.hackerrank.com/challenges/bon-appetit/problem
-# def bonAppetit(bill, k, b):
-#     sumarr = 0
-#     for i in range(len(bill)):
-#         if (i == k):
-#             continue
-#         sumarr += bill[i]
-#     sumarr = sumarr // 2
-#     sumarr = abs(sumarr - b)
-#
-#     if (sumarr == 0):
-#         print('Bon Appetit')
-#     else:
-#         print(sumarr)
+def bonAppetit(bill, k, b):
+    sumarr = 0
+    for i in range(len(bill)):
+        if (i == k):
+            continue
+        sumarr += bill[i]
+    sumarr = sumarr // 2
+    sumarr = abs(sumarr - b)
+
+    if (sumarr == 0):
+        print('Bon Appetit')
+    else:
+        print(sumarr)
 
 # A = [3,1,3,4,1,2,2]
 A = [3, 2, 7, 1, 5, 2, 1, 3, 5]
