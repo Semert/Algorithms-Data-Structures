@@ -136,6 +136,18 @@ def solution(A):
         if (values % 2 != 0):
             return (key)
 
+    ht = {}
+
+    for i in A:
+        if i in ht:
+            ht[i] += 1
+        else:
+            ht[i] = i
+
+    for key,values in ht.items():
+        if(values % 2 != 0):
+            return key
+
 
 newarr = []
 for i in range(0,len(A) - 1):
