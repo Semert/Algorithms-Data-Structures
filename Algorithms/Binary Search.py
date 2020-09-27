@@ -10,6 +10,7 @@ def linear_search(data,target):
 
 
 
+
 # Iterative Binary Search
 def binary_search_iterative(data,target):
     low = 0
