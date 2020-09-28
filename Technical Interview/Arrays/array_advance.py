@@ -12,6 +12,7 @@ def array_advance(A):
     return furthest_reached >= last_idx
 
 
+
 # True: Possible to navigate to last index in A:
 # Moves: 1,3,2
 A = [3, 3, 1, 0, 2, 0, 1]

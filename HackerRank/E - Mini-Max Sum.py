@@ -1,4 +1,6 @@
 # https://www.hackerrank.com/challenges/mini-max-sum/problem
+
+arr = [1,2,3,4]
 def miniMaxSum(arr):
     arr = sorted(arr)
     print(sum(arr[:-1]),sum(arr[1:]))
