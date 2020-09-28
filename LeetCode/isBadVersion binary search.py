@@ -8,7 +8,7 @@ class Solution(object):
     def firstBadVersion(self, n):
 
         right = n
-        left = 1
+        left = 0
         middle = 0
 
         while (left < right):
