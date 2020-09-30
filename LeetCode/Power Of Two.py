@@ -2,19 +2,15 @@
 class Solution(object):
     def isPowerOfTwo(self, n):
 
-        a = abs(n)
+        absoluteN = abs(n)
 
         if n == 1:
             return True
 
         count = 0
-        while (a):
-            a //= 2
-            count += a
+        while (absoluteN):
+            absoluteN //= 2
+            count += absoluteN
 
-        if (count + 1 == n):
-            return True
-        else:
-            print(count + 1)
+        return count + 1 == n
 
-            return False
