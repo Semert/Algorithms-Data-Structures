@@ -17,3 +17,7 @@ class Solution(object):
             return False
 
         return self.isSameTree(p.left, q.left) and self.isSameTree(p.right, q.right)
+
+
+
+# https://www.cs.cmu.edu/~adamchik/15-121/lectures/Trees/trees.html
