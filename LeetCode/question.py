@@ -2,7 +2,6 @@
 num = 35
 c = "2"
 
-# arr = [str(x) for x in num]
 
 def countNum(num,c):
     arr = [x for x in range(num+1)]
@@ -13,3 +12,6 @@ def countNum(num,c):
 
 
 countNum(num,c)
+countNum(30,"1")
+countNum(50,"7")
+# num ve c değerlerini değiştirip test edebilirsiniz. [num -> int, c -> str]
