@@ -5,6 +5,11 @@ class Solution(object):
         :type s: str
         :rtype: bool
         """
+
+        # s = [i for i in s if i.isalnum()]
+        # s = ''.join(s).lower()
+        # return s == s[::-1]
+
         actual_str = "".join(x for x in s if x.isalnum()).lower()
 
         def checkPalindrome(s):
