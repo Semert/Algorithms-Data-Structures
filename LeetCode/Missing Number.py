@@ -1,3 +1,4 @@
+# https://leetcode.com/problems/missing-number/submissions/
 class Solution(object):
     def missingNumber(self, nums):
         total = 0
