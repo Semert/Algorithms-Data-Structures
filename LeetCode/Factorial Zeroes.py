@@ -2,9 +2,9 @@ def trailingZeroes(n):
     # Fast
     count = 0
     while n:
+        print(n)
         n //= 5
         count += n
-
     return (count)
     # BruteForce
     # fact = 1
@@ -22,4 +22,4 @@ def trailingZeroes(n):
 
 
 
-print(trailingZeroes(12))
+print(trailingZeroes(16))
