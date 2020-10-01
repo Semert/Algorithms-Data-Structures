@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="404e024f-483b-4cbf-a95b-1356fbca11e1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/LeetCode/Happy Number.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/Power Of Three.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Power Of Three.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/question.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/question.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +45,7 @@
       <recent name="C:\Users\pc\Desktop\Python\Algorithms" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Power Of Two">
+  <component name="RunManager" selected="Python.question">
     <configuration name="E - Mini-Max Sum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -152,9 +153,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.question" />
         <item itemvalue="Python.Power Of Two" />
         <item itemvalue="Python.Factorial Zeroes" />
-        <item itemvalue="Python.question" />
         <item itemvalue="Python.array_advance" />
         <item itemvalue="Python.E - Mini-Max Sum" />
       </list>
@@ -178,22 +179,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1598697622009" />
-    <state width="1899" height="204" key="GridCell.Tab.0.bottom" timestamp="1601475159702">
+    <state width="1899" height="204" key="GridCell.Tab.0.bottom" timestamp="1601479985348">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="204" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1601475159702" />
-    <state width="1899" height="204" key="GridCell.Tab.0.center" timestamp="1601475159702">
+    <state width="1899" height="204" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1601479985348" />
+    <state width="1899" height="204" key="GridCell.Tab.0.center" timestamp="1601479985348">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="204" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1601475159702" />
-    <state width="1899" height="204" key="GridCell.Tab.0.left" timestamp="1601475159702">
+    <state width="1899" height="204" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1601479985348" />
+    <state width="1899" height="204" key="GridCell.Tab.0.left" timestamp="1601479985348">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="204" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1601475159702" />
-    <state width="1899" height="204" key="GridCell.Tab.0.right" timestamp="1601475159702">
+    <state width="1899" height="204" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1601479985348" />
+    <state width="1899" height="204" key="GridCell.Tab.0.right" timestamp="1601479985348">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="204" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601475159702" />
+    <state width="1899" height="204" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601479985348" />
     <state width="1899" height="348" key="GridCell.Tab.1.bottom" timestamp="1601194244638">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
