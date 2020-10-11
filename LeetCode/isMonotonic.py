@@ -26,9 +26,7 @@ class Solution(object):
 
 #         inc = True
 #         dec = True
-
 #         for i in range(len(A)-1):
-
 #             if A[i] > A[i+1]:
 
 #                 dec = False
