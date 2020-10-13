@@ -5,7 +5,6 @@ class Solution(object):
         #
         # toplama = 0
         # count = 0
-        #
         # while toplama != 1:
         #     for i in arr:
         #         toplama += i ** 2
