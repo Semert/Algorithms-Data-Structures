@@ -26,7 +26,6 @@ class Solution(object):
             return result
 
         Seen = set()
-
         while karenumber(n) not in Seen:
             total = karenumber(n)
             if (total == 1):
