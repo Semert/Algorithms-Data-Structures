@@ -6,6 +6,7 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
+
 class Solution(object):
     def isSameTree(self, p, q):
         if (p == None and q == None):
