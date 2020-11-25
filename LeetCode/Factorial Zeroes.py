@@ -2,7 +2,6 @@ def trailingZeroes(n):
     # Fast
     count = 0
     while n:
-        print(n)
         n //= 5
         count += n
     return (count)
