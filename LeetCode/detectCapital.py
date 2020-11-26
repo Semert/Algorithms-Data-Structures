@@ -9,4 +9,4 @@ class Solution(object):
             if char.isupper():
                 count += 1
 
-        return count == len(word) or count == 0 or (count == 1 and word[0].isupper())
+        return count == len(word) or count == 0 ount == 1 and word[0].isupper())r (co

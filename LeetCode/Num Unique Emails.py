@@ -3,6 +3,8 @@ class Solution(object):
     def numUniqueEmails(self, emails):
 
         newSet = set()
+
+    
         for email in emails:
 
             local = email[:email.index("@")]
