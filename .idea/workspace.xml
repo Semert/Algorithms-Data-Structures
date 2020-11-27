@@ -3,10 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="404e024f-483b-4cbf-a95b-1356fbca11e1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/Factorial Zeroes.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Factorial Zeroes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/Running Sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Running Sum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Technical Interview/Arrays/buy_and_sell_stock_once.py" beforeDir="false" afterPath="$PROJECT_DIR$/Technical Interview/Arrays/buy_and_sell_stock_once.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Technical Interview/Arrays/denemeler.py" beforeDir="false" afterPath="$PROJECT_DIR$/Technical Interview/Arrays/denemeler.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/detectCapital.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/detectCapital.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -213,9 +210,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606476960472" />
-    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1606474856556">
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1606494747655">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606474856556" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606494747655" />
   </component>
 </project>
