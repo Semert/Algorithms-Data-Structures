@@ -28,3 +28,5 @@ print(arr)
 print("".join([str(x) for x in arr]))
 print("".join(map(str,arr)))
 print(s.count("e"))
+arr2 = [0,1,2,3]
+print(arr2[:-1])
