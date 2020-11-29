@@ -27,3 +27,19 @@ def buy_and_sell2(prices):
         max_profit = max(max_profit,compareprofit)
 
     return  max_profit
+
+
+def binary(data,target):
+    low = 0
+    high = len(data) -1
+
+    while low <= high:
+        mid = (low+high) // 2
+
+        if target == data[mid]:
+            return True
+        elif target < data[mid]:
+            high = mid - 1
+        else:
+            low = mid + 1
+        return False
