@@ -1,6 +1,10 @@
 # https://leetcode.com/problems/running-sum-of-1d-array/submissions/
 
 def runningSum(nums):
+
+
+
+
     arr = [0] * len(nums)
 
     arr[0] = nums[0]

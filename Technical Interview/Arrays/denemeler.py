@@ -1,4 +1,8 @@
-
+n = 19
+s="deneme"
+print(list(s))
+arr = [int(x) for x in str(n)]
+print(arr)
 
 def buy_and_sell(A):
     max_profit = 0

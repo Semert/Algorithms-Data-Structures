@@ -22,7 +22,7 @@ def trailingZeroes(n):
 
 
 print(trailingZeroes(10))
-arr = [x for x in range(4) if x % 2== 0]
+arr = [x for x in range(4) if x % 2 == 0]
 s = "deneme"
 print(arr)
 print("".join([str(x) for x in arr]))
