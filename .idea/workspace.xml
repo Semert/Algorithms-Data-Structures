@@ -4,8 +4,6 @@
     <list default="true" id="404e024f-483b-4cbf-a95b-1356fbca11e1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LeetCode/Factorial Zeroes.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Factorial Zeroes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/Running Sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Running Sum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Technical Interview/Arrays/denemeler.py" beforeDir="false" afterPath="$PROJECT_DIR$/Technical Interview/Arrays/denemeler.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,8 +44,8 @@
       <recent name="C:\Users\pc\Desktop\Python\Algorithms" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.denemeler">
-    <configuration name="Running Sum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Factorial Zeroes">
+    <configuration name="Factorial Zeroes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -59,7 +57,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/Running Sum.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/Factorial Zeroes.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -154,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Factorial Zeroes" />
         <item itemvalue="Python.denemeler" />
         <item itemvalue="Python.Test" />
         <item itemvalue="Python.optimal_task_assingment" />
         <item itemvalue="Python.array_advance" />
-        <item itemvalue="Python.Running Sum" />
       </list>
     </recent_temporary>
   </component>
@@ -180,22 +178,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1598697622009" />
-    <state width="1899" height="348" key="GridCell.Tab.0.bottom" timestamp="1606680696739">
+    <state width="1899" height="204" key="GridCell.Tab.0.bottom" timestamp="1606819503189">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606680696739" />
-    <state width="1899" height="348" key="GridCell.Tab.0.center" timestamp="1606680696739">
+    <state width="1899" height="204" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606819503189" />
+    <state width="1899" height="204" key="GridCell.Tab.0.center" timestamp="1606819503189">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="348" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606680696739" />
-    <state width="1899" height="348" key="GridCell.Tab.0.left" timestamp="1606680696738">
+    <state width="1899" height="204" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606819503189" />
+    <state width="1899" height="204" key="GridCell.Tab.0.left" timestamp="1606819503189">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="348" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606680696738" />
-    <state width="1899" height="348" key="GridCell.Tab.0.right" timestamp="1606680696739">
+    <state width="1899" height="204" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606819503189" />
+    <state width="1899" height="204" key="GridCell.Tab.0.right" timestamp="1606819503189">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="348" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606680696739" />
+    <state width="1899" height="204" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606819503189" />
     <state width="1899" height="348" key="GridCell.Tab.1.bottom" timestamp="1606680696739">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -212,10 +210,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606680696739" />
-    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1606761508404">
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1606811975493">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606761508404" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606811975493" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1606678108138">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
