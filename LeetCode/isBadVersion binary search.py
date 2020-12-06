@@ -9,7 +9,6 @@ class Solution(object):
 
         right = n
         left = 0
-        middle = 0
 
         while (left < right):
             middle = (right + left) // 2

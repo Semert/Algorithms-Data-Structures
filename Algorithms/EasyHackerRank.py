@@ -13,6 +13,7 @@ def miniMaxSum(arr):
 
 
 
+
     def funcMax():
         max = 0
         for i in range(len(arr)):

@@ -125,13 +125,20 @@ A = [3, 2, 7, 1, 5, 2, 1, 3, 5]
 
 def solution(A):
     # write your code in Python 3.6
+
+    ht = {}
+
+    for i in A:
+        if i in ht:
+            ht[i] += 1
+        else:
+            ht[i] = 1
     ht = {}
     for i in A:
         if i in ht:
             ht[i] += 1
         else:
             ht[i] = 1
-    print(ht)
     for key, values in ht.items():
         if (values % 2 != 0):
             return (key)
