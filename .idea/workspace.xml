@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="404e024f-483b-4cbf-a95b-1356fbca11e1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/CodeSignal/alphabeticShift.py" beforeDir="false" afterPath="$PROJECT_DIR$/CodeSignal/alphabeticShift.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeSignal/variableName.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +23,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1YhsdBefw8LlebBwrRcJZ20Ev0w" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
